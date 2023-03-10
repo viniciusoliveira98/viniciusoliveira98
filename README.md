@@ -1,9 +1,9 @@
 # vini_28498
-### Olá, sou Vinícius Henrique 👋
+### Olá, sou o Vinícius Henrique 👋
 
 - 👷‍♂️ Engenheiro de Produção pela Universidade Federal do Paraná.
 - 🔭 Estou trabalhando com Arquitetura e Banco de Dados.
-- 🌱 Atualmente estou estudando Java.
+- 🌱 Atualmente estou estudando Data Enginnering.
 - 📅 Sou DBA desde 2022.
 - 👨‍💻 Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
 
