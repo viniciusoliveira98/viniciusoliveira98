@@ -27,7 +27,7 @@
   <img align="center" alt="Vini-Java" height="35" width="40" src="https://user-images.githubusercontent.com/63620777/224336408-3cffc863-53ec-405e-8baa-d3ec9f4a5a95.png">
   <img align="center" alt="Vini-Redshift" height="40" width="35" src="https://user-images.githubusercontent.com/63620777/224345597-370ccd3a-3ed6-4a4b-8240-e528b28cbf61.png">
   <img align="center" alt="Vini-Postgre" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224339778-b8434487-8f21-4ad8-be37-606f3b323f20.png">
- <img align="center" alt="Vini-alteryx" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224346255-625a2304-54fe-408f-92a8-2fbaf88984e8.png">
+ <img align="center" alt="Vini-alteryx" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224347280-3c71cdf3-1dbd-45c9-a3b6-bef5e62d75fc.png">
 </div>
 
  ##
