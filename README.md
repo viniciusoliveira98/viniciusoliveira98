@@ -1,9 +1,9 @@
 # vini_28498
 ### Olá, sou Vinícius Henrique 👋
 
-- 🔭 Estou trabalho com Banco de Dados, utilizando o Alteryx Analytics
-- 🌱 Atualmente estou estudando Java
-- 📅 Sou desenvolvedor desde 2022
+- 🔭 Estou trabalhando com Banco de Dados.
+- 🌱 Atualmente estou estudando Java.
+- 📅 Sou desenvolvedor desde 2022.
 - 👨‍💻 Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
  
 ##
