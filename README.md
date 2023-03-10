@@ -1,9 +1,10 @@
 # vini_28498
 ### Olá, sou Vinícius Henrique 👋
 
-- 🔭 Estou trabalhando com Banco de Dados.
+- 👷‍♂️ Engenheiro de Produção pela Universidade Federal do Paraná.
+- 🔭 Estou trabalhando com Arquitetura e Banco de Dados.
 - 🌱 Atualmente estou estudando Java.
-- 📅 Sou desenvolvedor desde 2022.
+- 📅 Sou DBA desde 2022.
 - 👨‍💻 Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
  
 ##
@@ -14,7 +15,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-SQL" height="38" width="40" src="https://user-images.githubusercontent.com/63620777/224331245-b6e69ce8-5659-4070-86fa-d1777cb38979.png">
+  <img align="center" alt="Vini-SQL" height="38" width="40" src="">
   <img align="center" alt="Ricky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricky-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
