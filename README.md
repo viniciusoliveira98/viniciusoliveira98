@@ -4,13 +4,13 @@
 - 🔭 Estou trabalho com Banco de Dados, utilizando o Alteryx Analytics
 - 🌱 Atualmente estou estudando Java
 - 📅 Sou desenvolvedor desde 2022
-- <a href="https://bridsolucoes.com.br/" target="_blank"><img align="center" alt="Ricky-HTML" height="25" width="25" src="https://user-images.githubusercontent.com/57508752/222625833-c3c30d63-e2d0-464a-a178-5577c0e8c8b1.png"></a> Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
+- 👨‍💻 Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
  
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricky-lopes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricky-lopes&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini28498&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini28498&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <div style="display: inline_block"><br>
