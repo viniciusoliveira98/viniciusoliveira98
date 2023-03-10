@@ -7,8 +7,8 @@
 - 📅 Sou DBA desde 2022.
 - 👨‍💻 Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
 
-Minhas certificações:
-<div style="display: inline_block"><br>
+
+Minhas certificações: <div style="display: inline_block"><br>
  <img align="center" alt="Vini-Alteryx1" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/224372153-7ace702b-8053-46c4-8410-7ccfd5b53e9d.jpg">
  <img align="center" alt="Vini-Alteryx2" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/224351955-06eb27ff-42c4-40b9-a1dd-ac2a48120c7a.jpg">
  <img align="center" alt="Vini-boot" height="70" width="70" src="https://user-images.githubusercontent.com/63620777/224344768-627c075b-1b40-4e86-801a-a996dba80481.png">
