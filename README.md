@@ -6,7 +6,10 @@
 - 🌱 Atualmente estou estudando Java.
 - 📅 Sou DBA desde 2022.
 - 👨‍💻 Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
- 
+- Minhas certificações:
+<div style="display: inline_block"><br>
+ <img align="center" alt="Vini-Alteryx1" height="40" width="90" src="https://user-images.githubusercontent.com/63620777/224341054-6eb8b4a2-3327-4e23-8d68-02f5c565e16f.png">
+
 ##
 
 <div>
