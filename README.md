@@ -15,7 +15,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-SQL" height="38" width="40" src="">
+  <img align="center" alt="Vini-SQL" height="38" width="40" src="https://user-images.githubusercontent.com/63620777/224332451-8b3ed1ef-8ba4-498c-b5f6-16d08794d5cf.png">
   <img align="center" alt="Ricky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricky-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
