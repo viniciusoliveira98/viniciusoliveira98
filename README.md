@@ -31,6 +31,8 @@ Minhas certificações: <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Redshift" height="40" width="35" src="https://user-images.githubusercontent.com/63620777/224345597-370ccd3a-3ed6-4a4b-8240-e528b28cbf61.png">
   <img align="center" alt="Vini-Postgre" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224339778-b8434487-8f21-4ad8-be37-606f3b323f20.png">
  <img align="center" alt="Vini-alteryx" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224347280-3c71cdf3-1dbd-45c9-a3b6-bef5e62d75fc.png">
+ <img align="center" alt="Vini-jupyter" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224373801-e13f540d-8fd7-481c-895e-790bd5beda95.png">
+ <img align="center" alt="Vini-pbi" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224374054-b2cd44c0-be95-4d2c-afad-a97f67f9f401.png">
 </div>
 
  ##
