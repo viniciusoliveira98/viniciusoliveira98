@@ -8,7 +8,7 @@
 - 👨‍💻 Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
 - Minhas certificações:
 <div style="display: inline_block"><br>
- <img align="center" alt="Vini-Alteryx1" height="50" width="50" src="https://user-images.githubusercontent.com/63620777/224341054-6eb8b4a2-3327-4e23-8d68-02f5c565e16f.png">
+ <img align="center" alt="Vini-Alteryx1" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/224341054-6eb8b4a2-3327-4e23-8d68-02f5c565e16f.png">
 
 ##
 
