@@ -19,7 +19,7 @@
   <img align="center" alt="Vini-SQL" height="38" width="40" src="https://user-images.githubusercontent.com/63620777/224332451-8b3ed1ef-8ba4-498c-b5f6-16d08794d5cf.png">
   <img align="center" alt="Vini-Python" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224333133-ea8a2b40-c71e-4177-899c-0f99b637f2d5.png">
   <img align="center" alt="Vini-R" height="30" width="40" src="https://user-images.githubusercontent.com/63620777/224334199-3d4faf1f-dc76-48c3-a0e3-368222997edf.png">
-  <img align="center" alt="Ricky-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vini-Java" height="30" width="40" src="https://user-images.githubusercontent.com/63620777/224335163-470980af-462d-4280-94bb-d94ea4527218.png">
   <img align="center" alt="Ricky-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ricky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
