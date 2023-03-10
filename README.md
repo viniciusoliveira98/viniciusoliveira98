@@ -27,7 +27,7 @@
   <img align="center" alt="Vini-Redshift" height="40" width="90" src="https://user-images.githubusercontent.com/63620777/224339343-e410372a-3413-4088-a889-a41cb87642a8.png">
   <img align="center" alt="Vini-Postgre" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224339778-b8434487-8f21-4ad8-be37-606f3b323f20.png">
   <img align="center" alt="Vini-MySQL" height="35" width="45" src="https://user-images.githubusercontent.com/63620777/224340088-0f3dff08-37a4-4690-a099-6f0281b5348a.png">
-  <img align="center" alt="Vini-Java" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224336408-3cffc863-53ec-405e-8baa-d3ec9f4a5a95.png">
+  <img align="center" alt="Vini-SQLServer" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224340544-6c293fbb-0d19-4eb6-b9ab-21b1b0f1fe37.png">
  </div>
  
   ### Tools
