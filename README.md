@@ -25,7 +25,7 @@
 ### DBMS
  <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Redshift" height="40" width="90" src="https://user-images.githubusercontent.com/63620777/224339343-e410372a-3413-4088-a889-a41cb87642a8.png">
-  <img align="center" alt="Vini-Python" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224333133-ea8a2b40-c71e-4177-899c-0f99b637f2d5.png">
+  <img align="center" alt="Vini-Postgre" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224339778-b8434487-8f21-4ad8-be37-606f3b323f20.png">
   <img align="center" alt="Vini-R" height="30" width="40" src="https://user-images.githubusercontent.com/63620777/224334199-3d4faf1f-dc76-48c3-a0e3-368222997edf.png">
   <img align="center" alt="Vini-Java" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224336408-3cffc863-53ec-405e-8baa-d3ec9f4a5a95.png">
  </div>
