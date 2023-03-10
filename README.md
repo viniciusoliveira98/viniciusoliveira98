@@ -4,7 +4,7 @@
 - 🔭 Estou trabalho com Banco de Dados, utilizando o Alteryx Analytics
 - 🌱 Atualmente estou estudando Java
 - 📅 Sou desenvolvedor desde 2022
-- <a href="https://bridsolucoes.com.br/" target="_blank"><img align="center" alt="Ricky-HTML" height="25" width="25" src="https://user-images.githubusercontent.com/57508752/222625833-c3c30d63-e2d0-464a-a178-5577c0e8c8b1.png"></a> Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
+- <a href="https://bridsolucoes.com.br/" target="_blank"><img align="center" alt="Ricky-HTML" height="25" width="25" src="[https://user-images.githubusercontent.com/57508752/222625833-c3c30d63-e2d0-464a-a178-5577c0e8c8b1.png](https://www.google.com/search?q=brid+solucoes+png&sxsrf=AJOqlzU1u4Fcp05NH51eRXLKIpt2qKYZkg:1678415561996&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjYvO6aqdD9AhWqFbkGHQlUDmcQ_AUoAXoECAEQAw&biw=1536&bih=722&dpr=1.25#imgrc=KA0V0dzaA5DjlM)"></a> Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
  
 ##
 
