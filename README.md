@@ -10,6 +10,11 @@
 Minhas certificações: <div style="display: inline_block"><br>
  <img align="center" alt="Vini-Alteryx1" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/224372153-7ace702b-8053-46c4-8410-7ccfd5b53e9d.jpg">
  <img align="center" alt="Vini-Alteryx2" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/224351955-06eb27ff-42c4-40b9-a1dd-ac2a48120c7a.jpg">
+ <img align="center" alt="Vini-Alteryx3" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/226141479-8c8c259d-5951-4ee5-a391-472c59903d69.png">
+ <img align="center" alt="Vini-Alteryx4" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/226141519-a55dc909-9b67-442b-b49d-170d51541bbf.png">
+ <img align="center" alt="Vini-Alteryx5" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/226141527-34fdf66f-e97c-4434-b210-b6d4f7404b30.png">
+ <img align="center" alt="Vini-Alteryx6" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/226141542-4acd9997-f02d-4616-8096-329e2a690419.png">
+  <img align="center" alt="Vini-Alteryx7" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/226141569-b7508d8d-346b-40dd-8c3d-4420b458d422.png">
  <img align="center" alt="Vini-boot" height="70" width="70" src="https://user-images.githubusercontent.com/63620777/224344768-627c075b-1b40-4e86-801a-a996dba80481.png">
  <img align="center" alt="Vini-boot" height="70" width="70" src="https://user-images.githubusercontent.com/63620777/224350723-a40ea954-5e07-4aac-9c30-5cb842f1e741.png">
 
