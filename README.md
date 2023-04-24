@@ -16,7 +16,6 @@ Minhas certificações: <div style="display: inline_block"><br>
  <img align="center" alt="Vini-Alteryx6" height="60" width="60" src="https://user-images.githubusercontent.com/63620777/226141542-4acd9997-f02d-4616-8096-329e2a690419.png">
   <img align="center" alt="Vini-Alteryx7" height="70" width="70" src="https://user-images.githubusercontent.com/63620777/226141569-b7508d8d-346b-40dd-8c3d-4420b458d422.png">
  <img align="center" alt="Vini-boot" height="70" width="70" src="https://user-images.githubusercontent.com/63620777/224344768-627c075b-1b40-4e86-801a-a996dba80481.png">
- <img align="center" alt="Vini-boot" height="70" width="70" src="https://user-images.githubusercontent.com/63620777/224350723-a40ea954-5e07-4aac-9c30-5cb842f1e741.png">
  <img align="center" alt="Vini-scrum" height="70" width="70" src="https://user-images.githubusercontent.com/63620777/226142297-aec4e0af-7a60-498b-9cf3-d40db8d4d1af.png">
  
 ##
