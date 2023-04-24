@@ -6,6 +6,7 @@
 - 🔭 Estou trabalhando com Arquitetura e Banco de Dados.
 - 📅 Sou DBA desde 2022.
 - 👨‍💻 Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
+     Criação, melhorias e manutenção de pipeline de dados, incluindo Data Warehouse em AWS Redshift e Data Lake em AWS S3.
 
 Minhas certificações: <div style="display: inline_block"><br>
  <img align="center" alt="Vini-Alteryx2" height="55" width="55" src="https://user-images.githubusercontent.com/63620777/224351955-06eb27ff-42c4-40b9-a1dd-ac2a48120c7a.jpg">
@@ -28,7 +29,7 @@ Minhas certificações: <div style="display: inline_block"><br>
   <img align="center" alt="Vini-R" height="30" width="40" src="https://user-images.githubusercontent.com/63620777/224334199-3d4faf1f-dc76-48c3-a0e3-368222997edf.png">
   <img align="center" alt="Vini-Java" height="40" width="40" src="https://user-images.githubusercontent.com/63620777/224347533-098a906c-b1a1-42e9-b6c8-ef349886cb08.png">
   <img align="center" alt="Vini-Redshift" height="40" width="35" src="https://user-images.githubusercontent.com/63620777/224345597-370ccd3a-3ed6-4a4b-8240-e528b28cbf61.png">
-   <img align="center" alt="Vini-S3" height="40" width="35" src="https://user-images.githubusercontent.com/63620777/234067984-deeab5a4-8ca2-4568-9cda-77738ad76162.png">
+   <img align="center" alt="Vini-S3" height="45" width="40" src="https://user-images.githubusercontent.com/63620777/234067984-deeab5a4-8ca2-4568-9cda-77738ad76162.png">
   <img align="center" alt="Vini-Postgre" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224339778-b8434487-8f21-4ad8-be37-606f3b323f20.png">
  <img align="center" alt="Vini-alteryx" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224347280-3c71cdf3-1dbd-45c9-a3b6-bef5e62d75fc.png">
  <img align="center" alt="Vini-pbi" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224374054-b2cd44c0-be95-4d2c-afad-a97f67f9f401.png">
