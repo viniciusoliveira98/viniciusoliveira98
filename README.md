@@ -27,10 +27,10 @@ Minhas certificações: <div style="display: inline_block"><br>
   <img align="center" alt="Vini-SQL" height="38" width="40" src="https://user-images.githubusercontent.com/63620777/224332451-8b3ed1ef-8ba4-498c-b5f6-16d08794d5cf.png">
   <img align="center" alt="Vini-Python" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224333133-ea8a2b40-c71e-4177-899c-0f99b637f2d5.png">
   <img align="center" alt="Vini-R" height="30" width="40" src="https://user-images.githubusercontent.com/63620777/224334199-3d4faf1f-dc76-48c3-a0e3-368222997edf.png">
-  <img align="center" alt="Vini-Java" height="40" width="40" src="https://user-images.githubusercontent.com/63620777/224347533-098a906c-b1a1-42e9-b6c8-ef349886cb08.png">
+  <img align="center" alt="Vini-Scala" height="40" width="40" src="https://github.com/Vini28498/Vini28498/assets/63620777/98e257cc-13d4-42ef-8bbe-2b9e24728311">
   <img align="center" alt="Vini-Redshift" height="40" width="35" src="https://user-images.githubusercontent.com/63620777/224345597-370ccd3a-3ed6-4a4b-8240-e528b28cbf61.png">
    <img align="center" alt="Vini-S3" height="45" width="40" src="https://user-images.githubusercontent.com/63620777/234067984-deeab5a4-8ca2-4568-9cda-77738ad76162.png">
-  <img align="center" alt="Vini-Postgre" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224339778-b8434487-8f21-4ad8-be37-606f3b323f20.png">
+  <img align="center" alt="Vini-Databricks" height="35" width="35" src="https://github.com/Vini28498/Vini28498/assets/63620777/62fe5c74-fcdb-4a09-b86e-1f43c9c20baf">
  <img align="center" alt="Vini-alteryx" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224347280-3c71cdf3-1dbd-45c9-a3b6-bef5e62d75fc.png">
  <img align="center" alt="Vini-pbi" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224374054-b2cd44c0-be95-4d2c-afad-a97f67f9f401.png">
 </div>
