@@ -12,9 +12,7 @@
 Minhas certificações: <div style="display: inline_block"><br>
  <img align="center" alt="Vini-Alteryx2" height="55" width="55" src="https://user-images.githubusercontent.com/63620777/224351955-06eb27ff-42c4-40b9-a1dd-ac2a48120c7a.jpg">
   <img align="center" alt="Vini-Alteryx7" height="70" width="70" src="https://user-images.githubusercontent.com/63620777/226141569-b7508d8d-346b-40dd-8c3d-4420b458d422.png">
- <img align="center" alt="Vini-boot" height="70" width="70" src="https://user-images.githubusercontent.com/63620777/224344768-627c075b-1b40-4e86-801a-a996dba80481.png">
  <img align="center" alt="Vini-scrum" height="70" width="70" src="https://user-images.githubusercontent.com/63620777/226142297-aec4e0af-7a60-498b-9cf3-d40db8d4d1af.png">
- <img align="center" alt="Vini-AWS-Imerssion" height="70" width="70" src="https://github.com/Vini28498/Vini28498/assets/63620777/26171649-e4f1-4233-9b18-53e847baeae6">
  <img align="center" alt="Vini-AWS-Cloud" height="70" width="70" src="https://github.com/Vini28498/Vini28498/assets/63620777/a4c9a648-6314-448b-a94f-176592b51097">
  <img align="center" alt="Vini-AWS-Cloud_analytics" height="70" width="70" src="https://github.com/Vini28498/Vini28498/assets/63620777/b4cb1c29-b8ba-4b0d-926e-80a486989676">
 
