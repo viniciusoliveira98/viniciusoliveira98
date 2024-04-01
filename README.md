@@ -4,7 +4,7 @@
 - 👷‍♂️ Engenheiro de Produção pela Universidade Federal do Paraná.
 - 🌱 Pós graduando em Engenharia de Sistemas de Banco de Dados pela UNICAMP.
 - 🔭 Estou trabalhando com Arquitetura e Banco de Dados.
-- 📅 Sou DBA desde 2022.
+- 📅 Sou Data Analyst desde 2022.
 - 👨‍💻 Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
     
     Criação, melhorias e manutenção de pipeline de dados, incluindo Data Warehouse em AWS Redshift e Data Lake em AWS S3.
