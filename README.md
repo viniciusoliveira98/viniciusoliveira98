@@ -17,7 +17,7 @@ Minhas certificações: <div style="display: inline_block"><br>
  <img align="center" alt="Vini-AWS-Cloud_analytics" height="70" width="70" src="https://github.com/Vini28498/Vini28498/assets/63620777/b4cb1c29-b8ba-4b0d-926e-80a486989676">
  <img align="center" alt="Vini-databricks" height="70" width="55" src="https://github.com/Vini28498/Vini28498/assets/63620777/0710577a-411c-4146-9304-fe2cce51f631">
 <div>
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliveira98&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliveira98&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <div style="display: inline_block"><br>
