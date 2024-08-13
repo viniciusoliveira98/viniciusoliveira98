@@ -29,6 +29,7 @@ Minhas certificações: <div style="display: inline_block"><br>
   <img align="center" alt="Vini-dbt" height="35" width="30" src="https://github.com/user-attachments/assets/ac456cc1-4c60-4093-a055-70b2f41f6cdb">
   <img align="center" alt="Vini-alteryx" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224347280-3c71cdf3-1dbd-45c9-a3b6-bef5e62d75fc.png">
   <img align="center" alt="Vini-airflow" height="35" width="35" src="https://github.com/user-attachments/assets/7d52172f-4b01-422a-adf9-2a7b9adcc585">
+  <img align="center" alt="Vini-dremio" height="35" width="35" src="https://github.com/user-attachments/assets/2a4d082d-2d11-4925-b844-2551d4ce1c29">
 </div>
 
  ##
