@@ -5,7 +5,7 @@
 - 🌱 Pós graduando em Engenharia de Sistemas de Banco de Dados pela UNICAMP.
 - 🔭 Estou trabalhando com Arquitetura e Banco de Dados.
 - 📅 Sou Data Enginner desde 2022.
-- 👨‍💻 Atualmente trabalho na empresa: <a href="https://bridsolucoes.com.br/" target="_blank">BRID Soluções</a>
+- 👨‍💻 Atualmente trabalho na empresa: <a href="https://www.mentorstec.com.br/">Mentors Tecnologia</a>
     
     Criação, melhorias e manutenção de pipeline de dados, incluindo Data Warehouse em AWS Redshift e Data Lake em AWS S3.
 
