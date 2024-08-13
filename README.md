@@ -7,7 +7,7 @@
 - 📅 Sou Data Enginner desde 2022.
 - 👨‍💻 Atualmente trabalho na empresa: <a href="https://www.mentorstec.com.br/">Mentors Tecnologia</a>
     
-    Criação, melhorias e manutenção de pipeline de dados, incluindo Data Warehouse em AWS Redshift e Data Lake em AWS S3.
+    Criação, melhorias e manutenção de pipeline de dados.
 
 Minhas certificações: <div style="display: inline_block"><br>
  <img align="center" alt="Vini-Alteryx2" height="55" width="55" src="https://user-images.githubusercontent.com/63620777/224351955-06eb27ff-42c4-40b9-a1dd-ac2a48120c7a.jpg">
