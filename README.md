@@ -25,7 +25,7 @@ Minhas certificações: <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Python" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224333133-ea8a2b40-c71e-4177-899c-0f99b637f2d5.png">
   <img align="center" alt="Vini-R" height="30" width="40" src="https://user-images.githubusercontent.com/63620777/224334199-3d4faf1f-dc76-48c3-a0e3-368222997edf.png">
   <img align="center" alt="Vini-Scala" height="38" width="38" src="https://github.com/Vini28498/Vini28498/assets/63620777/b2deb358-cb92-4967-9de6-7a4d207a4f9a">
-  <img align="center" alt="Vini-Redshift" height="40" width="35" src="https://user-images.githubusercontent.com/63620777/224345597-370ccd3a-3ed6-4a4b-8240-e528b28cbf61.png">
+  <img align="center" alt="Vini-Spark" height="40" width="35" src="https://github.com/user-attachments/assets/3766a45b-9e2b-4558-814d-ff4e2ddc4b36">
    <img align="center" alt="Vini-S3" height="45" width="40" src="https://user-images.githubusercontent.com/63620777/234067984-deeab5a4-8ca2-4568-9cda-77738ad76162.png">
  <img align="center" alt="Vini-alteryx" height="35" width="35" src="https://user-images.githubusercontent.com/63620777/224347280-3c71cdf3-1dbd-45c9-a3b6-bef5e62d75fc.png">
 </div>
