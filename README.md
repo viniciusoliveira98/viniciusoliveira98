@@ -16,8 +16,8 @@ Minhas certificações: <div style="display: inline_block"><br>
  <img align="center" alt="Vini-AWS-Cloud" height="70" width="70" src="https://github.com/Vini28498/Vini28498/assets/63620777/a4c9a648-6314-448b-a94f-176592b51097">
  <img align="center" alt="Vini-AWS-Cloud_analytics" height="70" width="70" src="https://github.com/Vini28498/Vini28498/assets/63620777/b4cb1c29-b8ba-4b0d-926e-80a486989676">
  <img align="center" alt="Vini-databricks" height="70" width="55" src="https://github.com/Vini28498/Vini28498/assets/63620777/0710577a-411c-4146-9304-fe2cce51f631">
- <img align="center" alt="Vini-dremio" height="50" width="60" src="https://github.com/user-attachments/assets/f783482a-79bb-49c8-b224-247e170a97d8">
- <img align="center" alt="Vini-dbt" height="50" width="60" src="https://github.com/user-attachments/assets/92c0c0af-b7ef-4d9b-8e10-77ac05887550">
+ <img align="center" alt="Vini-dremio" height="60" width="60" src="https://github.com/user-attachments/assets/f783482a-79bb-49c8-b224-247e170a97d8">
+ <img align="center" alt="Vini-dbt" height="60" width="60" src="https://github.com/user-attachments/assets/92c0c0af-b7ef-4d9b-8e10-77ac05887550">
 <div>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliveira98&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
