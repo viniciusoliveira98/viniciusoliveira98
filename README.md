@@ -8,14 +8,6 @@
 - 👨‍💻 Atualmente trabalho na empresa: <a href="https://solonetwork.com.br/home">Solo Network</a>
     
     Criação, melhorias e manutenção de pipeline de dados.
-  
-## Minhas certificações:
-
-<img alt="Vini-Alteryx" height="70" src="URL1">
-<img alt="Vini-AWS-Cloud-Analytics" height="70" src="URL2">
-<img alt="Vini-databricks" height="55" src="URL3">
-<img alt="Vini-dremio" height="60" src="URL4">
-<img alt="Vini-dbt" height="60" src="URL5">
 
 </div>
 
