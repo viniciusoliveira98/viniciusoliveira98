@@ -1,11 +1,11 @@
 # viniciusoliveira98
 ### Olá, sou o Vinícius Henrique 👋
 
-- 👷‍♂️ Engenheiro de Produção pela Universidade Federal do Paraná.
-- 🌱 Pós graduando em Engenharia de Sistemas de Banco de Dados pela UNICAMP.
-- 🔭 Estou trabalhando com Arquitetura e Banco de Dados.
+- 👷🏼‍♂️ Engenheiro de Produção pela Universidade Federal do Paraná.
+- 👨🏼‍💻 Pós graduado em Engenharia de Sistemas de Banco de Dados pela UNICAMP.
+- ⚙️ Estou trabalhando com Arquitetura e Engenharia de Dados.
 - 📅 Sou Data Enginner desde 2022.
-- 👨‍💻 Atualmente trabalho na empresa: <a href="https://solonetwork.com.br/home">Solo Network</a>
+- 🛡️ Atualmente trabalho na empresa: <a href="https://solonetwork.com.br/home">Solo Network</a>
     
     Criação, melhorias e manutenção de pipeline de dados.
 
